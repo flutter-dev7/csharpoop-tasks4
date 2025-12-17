@@ -18,3 +18,4 @@ C:\Users\User\Desktop\C#course\week2\lesson4\hometask\MainApp\obj\Debug\net9.0\r
 C:\Users\User\Desktop\C#course\week2\lesson4\hometask\MainApp\obj\Debug\net9.0\MainApp.pdb
 C:\Users\User\Desktop\C#course\week2\lesson4\hometask\MainApp\obj\Debug\net9.0\MainApp.genruntimeconfig.cache
 C:\Users\User\Desktop\C#course\week2\lesson4\hometask\MainApp\obj\Debug\net9.0\ref\MainApp.dll
+C:\Users\User\Desktop\C#course\week2\lesson4\hometask\MainApp\obj\Debug\net9.0\MainApp.sourcelink.json

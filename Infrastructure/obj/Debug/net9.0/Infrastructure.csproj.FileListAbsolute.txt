@@ -13,3 +13,4 @@ C:\Users\User\Desktop\C#course\week2\lesson4\hometask\Infrastructure\obj\Debug\n
 C:\Users\User\Desktop\C#course\week2\lesson4\hometask\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
 C:\Users\User\Desktop\C#course\week2\lesson4\hometask\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 C:\Users\User\Desktop\C#course\week2\lesson4\hometask\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\User\Desktop\C#course\week2\lesson4\hometask\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
